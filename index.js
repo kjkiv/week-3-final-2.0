@@ -60,9 +60,9 @@ for (let i = 0; i < names.length; i++) {
 }
 console.log("Question 2b (concat names): ", concatNames);
 
-console.log("\nQuestion 3:");
+console.log("\nQuestion 3(Subtracting 1 from the length of an array gives the index of the last element of an array using which the last element can be accessed.) ");
 
-console.log("\nQuestion 4:");
+console.log("\nQuestion 4(I can access the first element by the zero index. array[0]):");
 
 
 console.log("\nQuestion 5:");
